@@ -1,5 +1,4 @@
-# slgame-
-Wellness game
+
 <!DOCTYPE html>
 <html lang="en">
 <head>
